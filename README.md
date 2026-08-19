@@ -1,6 +1,8 @@
 # Desafios-criativos
 
-**Prompt:**
+Os dados foram gerados no Chat GPT e o resultado no Copilot.
+
+**Prompt para o Copilot:**
 Atue como analista de experiência do cliente em um banco. Sua tarefa é analisar o feedback de clientes bancários para identificar sua experiencia com o atendimento, serviços online, facilidade no uso de ferramentas e problemas encontrados.
 
 
